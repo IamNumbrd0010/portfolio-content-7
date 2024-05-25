@@ -1,0 +1,36 @@
+.firstdiv {
+    color: red;
+}
+h2 {
+    color: blueviolet;
+}
+
+body {
+    background-image: url(img1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.secoddiv {
+    color: purple;
+    border-width: 10;
+    border-style: dashed;
+    border-color: black;
+
+}
+
+#thigs {
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+#stuff {
+    color: blue;
+    border-style:dotted;
+    border-width: 10;
+    border-color: brown;
+}
+
+h3 {
+    color: peru;
+}
